@@ -1,1 +1,53 @@
-Test
+Computational Tools for Social Research
+
+A collection of personal work developed during my research, shared in the hope that it proves useful for other projects. All tools are open access and may be reused, provided that authorship is acknowledged.
+
+Status: preliminary version. The repository is under construction and its contents, structure and documentation will change as new material is added.
+
+Purpose
+
+This repository gathers computational tools, scripts and workflows built for quantitative social research. The goal is to make them transparent, reusable and easy to adapt, so that other researchers can inspect, replicate or extend them.
+
+Contents
+Folder / file	Description
+(to be added)	Scripts, functions and analysis workflows.
+(to be added)	Example data and documentation.
+<!-- TODO: replace this table with the real folder structure as files are uploaded. -->
+Getting started
+bash
+git clone https://github.com/Edison-Caj-Sc/Computational-tools-for-social-research.git
+cd Computational-tools-for-social-research
+Requirements
+<!-- TODO: list the software and packages each tool needs, with versions (for example R, Python, jamovi) and how to install them. -->
+
+To be specified for each tool.
+
+Usage
+<!-- TODO: add a short usage example per tool: inputs, command or function call, and expected output. -->
+
+Each tool will include its own usage notes and, where possible, a worked example.
+
+Attribution and citation
+
+You are free to use, adapt and share the material in this repository, provided that you give appropriate credit to the author. If you use these tools in academic work, please cite them as:
+
+bibtex
+@misc{edison_caj_sc_computational_tools,
+  author       = {Edison-Caj-Sc},
+  title        = {Computational Tools for Social Research},
+  year         = {2026},
+  howpublished = {\url{https://github.com/Edison-Caj-Sc/Computational-tools-for-social-research}}
+}
+<!-- TODO: add your full name, affiliation and ORCID if you want them in the citation. -->
+License
+<!-- TODO: choose and add a LICENSE file, then name it here. Options that require attribution: MIT or Apache-2.0 (code), CC BY 4.0 (documentation, data and text). -->
+
+To be defined.
+
+Disclaimer
+
+These tools come from ongoing research and are provided as is, without warranty of any kind. Please validate results against your own data and methods before relying on them.
+
+Contributing and contact
+
+Suggestions, bug reports and improvements are welcome. Please open an issue or contact me through my GitHub profile: @Edison-Caj-Sc.
